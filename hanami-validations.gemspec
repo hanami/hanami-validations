@@ -7,8 +7,8 @@ require "hanami/validations/version"
 Gem::Specification.new do |spec|
   spec.name          = "hanami-validations"
   spec.version       = Hanami::Validations::VERSION
-  spec.authors       = ["Luca Guidi"]
-  spec.email         = ["me@lucaguidi.com"]
+  spec.authors       = ["Hanakai team"]
+  spec.email         = ["info@hanakai.org"]
   spec.summary       = "Validations mixin for Ruby objects"
   spec.description   = "Validations mixin for Ruby objects and support for Hanami"
   spec.homepage      = "http://hanamirb.org"
