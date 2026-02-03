@@ -1,0 +1,12 @@
+name:
+  gem: hanami-validations
+  constant: Hanami::Validations
+  title: Hanami Validations
+github_org: hanami
+gemspec:
+  authors: ["Hanakai team"]
+  email: ["info@hanakai.org"]
+  summary: "Validation support for Hanami"
+  homepage: "https://hanamirb.org"
+  runtime_dependencies:
+    - ["dry-validation", ">= 1.10", "< 2"]
