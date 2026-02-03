@@ -1,27 +1,11 @@
-# Hanami::Validations
+<!--- This file is synced from hanakai-rb/repo-sync -->
 
-Internal support gem for `Hanami::Action` params validation.
+[rubygem]: https://rubygems.org/gems/hanami-validations
+[actions]: https://github.com/hanami/hanami-validations/actions
 
-## Status
-
-[![Gem Version](https://badge.fury.io/rb/hanami-validations.svg)](https://badge.fury.io/rb/hanami-validations)
-[![CI](https://github.com/hanami/validations/actions/workflows/ci.yml/badge.svg)](https://github.com/hanami/validations/actions?query=workflow%3Aci+branch%3Amain)
-[![Test Coverage](https://codecov.io/gh/hanami/validations/branch/main/graph/badge.svg)](https://codecov.io/gh/hanami/validations)
-[![Depfu](https://badges.depfu.com/badges/af6c6be539d9d587c7541ae7a013c9ff/overview.svg)](https://depfu.com/github/hanami/validations?project=Bundler)
-
-## Contact
-
-* Home page: http://hanamirb.org
-* Community: http://hanamirb.org/community
-* Guides: https://guides.hanamirb.org
-* Mailing List: http://hanamirb.org/mailing-list
-* API Doc: http://rubydoc.info/gems/hanami-validations
-* Bugs/Issues: https://github.com/hanami/validations/issues
-* Chat: http://chat.hanamirb.org
+# Hanami Validations [![Gem Version](https://badge.fury.io/rb/hanami-validations.svg)][rubygem] [![CI Status](https://github.com/hanami/hanami-validations/workflows/CI/badge.svg)][actions]
 
 ## Installation
-
-__Hanami::Validations__ supports Ruby (MRI) 3.1+
 
 Add this line to your application's Gemfile:
 
@@ -76,6 +60,13 @@ See [hanami-controller][controller] for more detail on params validation.
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
 
-## Copyright
+## Links
 
-Copyright © 2014–2024 Hanami Team – Released under MIT License
+- [User documentation](https://hanamirb.org)
+- [API documentation](http://rubydoc.info/gems/hanami-validations)
+
+
+## License
+
+See `LICENSE` file.
+
