@@ -28,7 +28,7 @@ Gem::Specification.new do |spec|
   spec.metadata["bug_tracker_uri"]   = "https://github.com/hanami/hanami-validations/issues"
   spec.metadata["funding_uri"]       = "https://github.com/sponsors/hanami"
 
-  spec.required_ruby_version = ">= 3.2"
+  spec.required_ruby_version = ">= 3.3"
 
   spec.add_runtime_dependency "dry-validation", ">= 1.10", "< 2"
 end
