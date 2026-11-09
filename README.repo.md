@@ -1,3 +1,6 @@
+> [!NOTE]
+> Hanami 3.0 retires hanami-validations. From 3.0, [hanami-action](https://github.com/hanami/hanami-action) depends on [dry-validation](https://github.com/dry-rb/dry-validation) directly, so you don't need this gem. It remains for Hanami 2.x apps using hanami-controller.
+
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -43,11 +46,11 @@ end
 
 See [hanami-controller][controller] for more detail on params validation.
 
-[controller]: http://github.com/hanami/controller
+[controller]: https://github.com/hanami/hanami-controller
 
 ## Contributing
 
-1. Fork it ( https://github.com/hanami/validations/fork )
+1. Fork it ( https://github.com/hanami/hanami-validations/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
